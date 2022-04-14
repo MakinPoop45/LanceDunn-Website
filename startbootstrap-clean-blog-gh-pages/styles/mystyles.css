@@ -1,0 +1,76 @@
+
+.body1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+ li {
+    font-size: 14px;
+     font-style: italic;
+     font-weight: normal;
+ }
+        
+
+ a{
+      color: yellow;
+      text-decoration: none;
+  }
+
+  a:hover{
+      text-decoration: underline;
+  }
+
+.ListHeadings 
+    {font-weight: bold; 
+    font-style: normal
+}
+
+.underline{text-decoration: underline;}
+.justify{ text-align: justify;}
+
+.homepagebg{ background-image: url(https://images.hdqwalls.com/wallpapers/goku-by-bosslogic-4k-on.jpg); 
+    background-position: bottom right;
+    background-size: contain;}
+
+    .box1{
+        border-width: 1px;
+        border-style: solid;
+        border-color: aquamarine;
+    }
+
+    .box2{
+        padding: 4px;
+    }
+
+    .box3{
+        margin: 5px;
+    }
+
+    .box4{
+        margin: 100px;
+        padding-left: 10px;
+        border-right: solid 5px blue;
+    }
+    
+.background {
+    background-color: rgb(196, 195, 195);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font: bold;
+    font: italic;
+    text-decoration: underline;
+    text-decoration: wavy;
+}
+
+.images {
+    float: left;
+    width: 33.33%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.images img {
+    height: 400px;
+}
